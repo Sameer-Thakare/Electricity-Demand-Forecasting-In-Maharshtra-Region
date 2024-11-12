@@ -36,7 +36,7 @@ Prophet, a forecasting tool developed by Facebook, is particularly effective for
 
 1. **Clone this repository**:
     ```bash
-    git clone https://github.com/your-username/electricity-demand-forecasting.git
+    git clone https://github.com/Sameer-Thakare/Electricity-Demand-Forecasting-In-Maharshtra-Region.git
     cd electricity-demand-forecasting
     ```
 
